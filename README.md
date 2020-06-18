@@ -24,6 +24,8 @@ RandomCrop: to crop an image randomly.
 ToTensor: to convert numpy images to torch images.
 
 
+# Second jupyter notebook 2. Define the Network Architecture.ipynb
+
 # Define the CNN Architecture:
 See models.py
 
