@@ -46,7 +46,7 @@ Steps:
 5) Save the model into Saved_models (too large size to pist here)
 
 
-# Third Jupyter notebook // 2. Define the Network Architecture.ipynb
+# Third Jupyter notebook // 3. Facial Keypoint Detection, Complete Pipeline.ipynb
 
 Steps
 1) Detect faces in any image using Haar Cascade Detector in the project
