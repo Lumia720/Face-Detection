@@ -9,5 +9,13 @@ The Facial Keypoint Detection project uses 6 layer LeNet style convolutional neu
 # Dataset:
 Udacity provided YouTube Faces Dataset. It contains 3,425 face videos designed for studying the problem of unconstrained face recognition in videos. These videos have been fed through processing steps and turned into sets of image frames containing one face and the associated keypoints.
 
+# Training and Test Data:
+Udacity: "This facial keypoints dataset consists of 5770 color images. All of these images are separated into either a training or a test set of data. 3462 of these images are training images, for you to use as you create a model to predict keypoints.
+2308 are test images, which will be used to test the accuracy of your model."
+
+
+# Pre-Processing the Data:
+In order to feed the data(images) into the neural network, we have to transform the images into a fixed dimensional size and a standard color range by converting the numpy arrays to Pytorch Tensors(for faster computation).
+
 
 
