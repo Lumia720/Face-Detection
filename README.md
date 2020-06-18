@@ -17,5 +17,11 @@ Udacity: "This facial keypoints dataset consists of 5770 color images. All of th
 # Pre-Processing the Data:
 In order to feed the data(images) into the neural network, we have to transform the images into a fixed dimensional size and a standard color range by converting the numpy arrays to Pytorch Tensors(for faster computation).
 
+# Transforms:
+Normalize: to convert a color image to grayscale values with a range of [0,1] and normalize the keypoints to be in a range of about [-1, 1]
+Rescale: to rescale an image to a desired size.
+RandomCrop: to crop an image randomly.
+ToTensor: to convert numpy images to torch images.
+
 
 
