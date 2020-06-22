@@ -6,7 +6,12 @@ This repository contains the Facial Keypoint Detection project, which is the fir
 
 The Facial Keypoint Detection project uses 6 layer LeNet style convolutional neural network (CNN) to find 68 facial keypoints on a face. Facial Keypoints are also called Facial Landmarks which generally specify the areas of the nose, eyes, mouth, etc on the face, classified by 68 key points, with coordinates (x, y), for that face. The keypoints are positioned on the features of a face, such as the eyebrow, nose, and mouth. The points could therefore be used in a number of applications including emotion detection and facial feature classification.
 
+
+
+![Optional Text](C://Downloads/obama.png)
+
 Topic: supervised deep neural network
+
 
 # First Jupyter notebook 1. Load and Visualize Data.ipynb
 
