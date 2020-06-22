@@ -9,6 +9,10 @@ The Facial Keypoint Detection project uses 6 layer LeNet style convolutional neu
 
 
 ![](https://github.com/Lumia720/Facial-Keypoints-Detection/blob/master/images/obama_michelle.png)
+![](https://github.com/Lumia720/Facial-Keypoints-Detection/blob/master/images/obama.png)
+![](https://github.com/Lumia720/Facial-Keypoints-Detection/blob/master/images/michele.png)
+
+
 
 Topic: supervised deep neural network
 
